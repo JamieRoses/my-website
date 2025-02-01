@@ -121,7 +121,7 @@ nav a:hover {
 .order-form {
     max-width: 600px;
     margin: 50px auto;
-    padding: 30px auto;
+    padding: 30px;
     background: #fff8e1;
     border-radius: 10px;
     border: 2px solid #ff9800;
